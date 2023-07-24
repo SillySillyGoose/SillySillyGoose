@@ -8,6 +8,13 @@ Now, im not the best. But I still feel like I am still good enough to make a bas
 <br>
 I can also create some games in unity using c#!
 
+# Github
+Honestly. I love github. It's great allowing me to do what i need easily.
+<br>
+What I also like is how you can use HTML within the readme files and how they show up on the project!
+Now, I dont know md files so maybe thats not a github thing but yeah!
+
+
 # If you want just have a look around!
 
 # Bye! 👋👋👋
