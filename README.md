@@ -1,4 +1,11 @@
 # Hey👋
 I mainly work in svelte and html. (Including JS and CSS)
 
-My newest project is a countdown that i made because someone asked me too.
+My newest project is a countdown that I made because someone asked me too.
+
+# My Skill Level
+Now, im not the best. But I still feel like I am still good enough to make a basic site.
+
+# If you want just have a look around!
+
+# Bye! 👋👋👋
